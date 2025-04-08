@@ -7,8 +7,10 @@ The Normal Load test was conducted with the game in focus, while simultaneously 
 
 ## High Load 
 For the High Load test, I ran FurMark with a limited FPS to make Beat Saber still somewhat playable, along with a Python CPU benchmark (from this GitHub repository: https://github.com/alexdedyura/cpu-benchmark). I modified the benchmark to only run the Multithreaded portion.
-CPU usage: 100%
-GPU usage: 90%
+- CPU usage: 100%
+- GPU usage: 90%
+
+
 The game was also unfocused to further increase the chances of stutters.
 
 # First Glance
